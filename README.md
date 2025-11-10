@@ -35,7 +35,7 @@ Of course, you can edit the `hyprlock.conf` file for more advanced customization
 Clone the repo:
 
 ```bash
-git clone https://github.com/PolarT-py/endhyprlock.git
+git clone https://github.com/PolarT-py/endlockscreen
 cd endhyprlock
 ```
 
