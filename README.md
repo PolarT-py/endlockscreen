@@ -36,6 +36,6 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/PolarT-py/endlockscreen
-cd endhyprlock
+cd endlockscreen
 ```
 
