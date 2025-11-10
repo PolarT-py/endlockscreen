@@ -9,7 +9,7 @@ There are **two versions** of this rice:
 | Desktop | 2560x1440
 | Laptop | 1920x1080
 
-They're basically the same but scaled differently (duh)
+They're basically the same but scaled differently (duh) except Laptop version has battery.
 If you need a **different resolution** for either Desktop/Laptop, you'll have to tweak it yourself (I'm lazy zzz).
 
 ---
